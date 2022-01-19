@@ -1,5 +1,5 @@
 <!-- footer -->
-<footer class="bg-dark footer-section">
+<footer class="bg-dark footer-section" style="padding: 0px;">
   <div class="section">
     <div class="container">
       <div class="row">
@@ -8,18 +8,19 @@
           <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.email }}</p>
         </div>
         <div class="col-md-4">
-          <h5 class="text-light">Phone</h5>
+          <h5 class="text-light">Tel</h5>
           <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.phone }}</p>
         </div>
         <div class="col-md-4">
           <h5 class="text-light">Address</h5>
-          <p class="text-white paragraph-lg font-secondary">{{ site.data.settings.address }}</p>
+          <p class="text-white paragraph-lg font-primary">{{ site.data.settings.address }}</p>
         </div>
       </div>
     </div>
   </div>
   <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{site.data.settings.copyright | markdownify}}</p>
+    <p class="mb-0 text-white">{{site.data.settings.copyright}}</p>
+    <!-- <p class="mb-0 text-white">{{site.data.settings.copyright | markdownify}}</p> -->
   </div>
 </footer>
 <!-- /footer -->

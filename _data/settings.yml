@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: (주)허그케어앤테라퓨틱스
 logo: 
-author: themefisher
+author: Dongwoo Park
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: support@hugctx.com
+phone: 02-538-4856
+address: 서울시 서초구 서초대로 78길 42, 1112호
+copyright:  Cpoyright &copy; 2022 Hugcare & Teherapeutics inc. All rights reserved.
 
 menu:
 - {name: About, link: '/about'}
@@ -38,13 +38,8 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title:  안녕하세요, 허그케어앤테라퓨틱스 입니다. <br><br> 잠시 홈페이지 공사중입니다. <br><br> 조금만 기다려 주세요!
 
-social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
 
 
 #-------------------------------
@@ -293,4 +288,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: support@hugctx.com
